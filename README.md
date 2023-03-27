@@ -247,3 +247,5 @@ Then, **and this is super important**, please make both of those URLs **clickabl
 * (20 pts) Running web app has the ability to login with OAuth through a Github Account.
 * (20 pts) Storybooks for `docs` and `docs-qa` are both set up properly.
 * (20 pts) GitHub Actions runs correctly and there is a green check (not a red X) on your main branch
+
+[![codecov](https://codecov.io/gh/CS-3704-Spring-2023/spring-setup-group5/branch/main/graph/badge.svg?token=WK6DZEPDJK)](https://codecov.io/gh/CS-3704-Spring-2023/spring-setup-group5)
